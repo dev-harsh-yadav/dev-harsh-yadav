@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-harsh-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="dev-harsh-yadav" /> </p>
 
+<img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" align="right" width="400">
+
 - 🔭 I’m currently working on [Real time Web Chat application](https://github.com/dev-himanshu-karnwal/mern-chat-app)
 
 - 🌱 I’m currently learning **Backend with Javascript**
